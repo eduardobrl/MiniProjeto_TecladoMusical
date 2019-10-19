@@ -8,6 +8,7 @@
 @param: Valor de contagem para timer
 
 */ 
+
 void DRV_Speaker_Nota_Musical (int CNT)
 {
   ITMC = 0x8000 | CNT;
@@ -23,11 +24,11 @@ void DRV_Speaker_Turn_Off(void){
   
 }
 
-
+#pragma vector = INTIT_vect // escreve função de interrupção no vetor do IT
 __interrupt void DRV_Speaker_trata_IT(void)
 {
     P7_bit.no7 = !P7_bit.no7; // inverte o estado do led
 }
 
 
-#endif __DRV_SPEAKER_C__
+#endif 

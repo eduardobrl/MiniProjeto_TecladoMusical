@@ -17560,7 +17560,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16174@macro@P50_PORT",
+    "ID": "c:Hardware.h@16173@macro@P50_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P50_PORT",
@@ -17574,7 +17574,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16219@macro@P50_PULL",
+    "ID": "c:Hardware.h@16218@macro@P50_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P50_PULL",
@@ -17588,7 +17588,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16268@macro@P50_OUTPUT_MODE",
+    "ID": "c:Hardware.h@16267@macro@P50_OUTPUT_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P50_OUTPUT_MODE",
@@ -17602,7 +17602,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16327@macro@P51_MODE",
+    "ID": "c:Hardware.h@16326@macro@P51_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P51_MODE",
@@ -17616,7 +17616,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16380@macro@P51_PORT",
+    "ID": "c:Hardware.h@16379@macro@P51_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P51_PORT",
@@ -17630,7 +17630,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16425@macro@P51_PULL",
+    "ID": "c:Hardware.h@16424@macro@P51_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P51_PULL",
@@ -17644,7 +17644,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16476@macro@P52_MODE",
+    "ID": "c:Hardware.h@16475@macro@P52_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P52_MODE",
@@ -17658,7 +17658,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16529@macro@P52_PORT",
+    "ID": "c:Hardware.h@16528@macro@P52_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P52_PORT",
@@ -17672,7 +17672,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16574@macro@P52_PULL",
+    "ID": "c:Hardware.h@16573@macro@P52_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P52_PULL",
@@ -17686,7 +17686,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16625@macro@P53_MODE",
+    "ID": "c:Hardware.h@16624@macro@P53_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P53_MODE",
@@ -17700,7 +17700,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16678@macro@P53_PORT",
+    "ID": "c:Hardware.h@16677@macro@P53_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P53_PORT",
@@ -17714,7 +17714,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16723@macro@P53_PULL",
+    "ID": "c:Hardware.h@16722@macro@P53_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P53_PULL",
@@ -17728,7 +17728,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16774@macro@P54_MODE",
+    "ID": "c:Hardware.h@16773@macro@P54_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P54_MODE",
@@ -17742,7 +17742,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16827@macro@P54_PORT",
+    "ID": "c:Hardware.h@16826@macro@P54_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P54_PORT",
@@ -17756,7 +17756,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16872@macro@P54_PULL",
+    "ID": "c:Hardware.h@16871@macro@P54_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P54_PULL",
@@ -17770,7 +17770,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16923@macro@P55_MODE",
+    "ID": "c:Hardware.h@16922@macro@P55_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P55_MODE",
@@ -17784,7 +17784,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@16976@macro@P55_PORT",
+    "ID": "c:Hardware.h@16975@macro@P55_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P55_PORT",
@@ -17798,7 +17798,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17021@macro@P55_PULL",
+    "ID": "c:Hardware.h@17020@macro@P55_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P55_PULL",
@@ -17812,7 +17812,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17070@macro@P55_INPUT_MODE",
+    "ID": "c:Hardware.h@17069@macro@P55_INPUT_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P55_INPUT_MODE",
@@ -17826,7 +17826,7 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17124@macro@P55_OUTPUT_MODE",
+    "ID": "c:Hardware.h@17123@macro@P55_OUTPUT_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P55_OUTPUT_MODE",
@@ -17840,13 +17840,55 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17246@macro@P40_MODE",
+    "ID": "c:Hardware.h@17180@macro@P5_MODE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "P5_MODE",
+    "location": {
+      "column": "9",
+      "line": "425",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
+    },
+    "name": "P5_MODE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Hardware.h@17516@macro@P5_PORT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "P5_PORT",
+    "location": {
+      "column": "9",
+      "line": "432",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
+    },
+    "name": "P5_PORT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Hardware.h@17852@macro@P5_PULL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "P5_PULL",
+    "location": {
+      "column": "9",
+      "line": "439",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
+    },
+    "name": "P5_PULL",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:Hardware.h@18255@macro@P40_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P40_MODE",
     "location": {
       "column": "9",
-      "line": "426",
+      "line": "448",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P40_MODE",
@@ -17854,13 +17896,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17299@macro@P40_PORT",
+    "ID": "c:Hardware.h@18308@macro@P40_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P40_PORT",
     "location": {
       "column": "9",
-      "line": "427",
+      "line": "449",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P40_PORT",
@@ -17868,13 +17910,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17344@macro@P40_PULL",
+    "ID": "c:Hardware.h@18353@macro@P40_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P40_PULL",
     "location": {
       "column": "9",
-      "line": "428",
+      "line": "450",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P40_PULL",
@@ -17882,13 +17924,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17395@macro@P41_MODE",
+    "ID": "c:Hardware.h@18404@macro@P41_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P41_MODE",
     "location": {
       "column": "9",
-      "line": "430",
+      "line": "452",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P41_MODE",
@@ -17896,13 +17938,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17448@macro@P41_PORT",
+    "ID": "c:Hardware.h@18457@macro@P41_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P41_PORT",
     "location": {
       "column": "9",
-      "line": "431",
+      "line": "453",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P41_PORT",
@@ -17910,13 +17952,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17493@macro@P41_PULL",
+    "ID": "c:Hardware.h@18502@macro@P41_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P41_PULL",
     "location": {
       "column": "9",
-      "line": "432",
+      "line": "454",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P41_PULL",
@@ -17924,13 +17966,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17544@macro@P42_MODE",
+    "ID": "c:Hardware.h@18553@macro@P42_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P42_MODE",
     "location": {
       "column": "9",
-      "line": "434",
+      "line": "456",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P42_MODE",
@@ -17938,13 +17980,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17597@macro@P42_PORT",
+    "ID": "c:Hardware.h@18606@macro@P42_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P42_PORT",
     "location": {
       "column": "9",
-      "line": "435",
+      "line": "457",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P42_PORT",
@@ -17952,13 +17994,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17642@macro@P42_PULL",
+    "ID": "c:Hardware.h@18651@macro@P42_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P42_PULL",
     "location": {
       "column": "9",
-      "line": "436",
+      "line": "458",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P42_PULL",
@@ -17966,13 +18008,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17693@macro@P43_MODE",
+    "ID": "c:Hardware.h@18702@macro@P43_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P43_MODE",
     "location": {
       "column": "9",
-      "line": "438",
+      "line": "460",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P43_MODE",
@@ -17980,13 +18022,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17746@macro@P43_PORT",
+    "ID": "c:Hardware.h@18755@macro@P43_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P43_PORT",
     "location": {
       "column": "9",
-      "line": "439",
+      "line": "461",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P43_PORT",
@@ -17994,13 +18036,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17791@macro@P43_PULL",
+    "ID": "c:Hardware.h@18800@macro@P43_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P43_PULL",
     "location": {
       "column": "9",
-      "line": "440",
+      "line": "462",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P43_PULL",
@@ -18008,13 +18050,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17909@macro@P70_MODE",
+    "ID": "c:Hardware.h@18918@macro@P70_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P70_MODE",
     "location": {
       "column": "9",
-      "line": "444",
+      "line": "466",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P70_MODE",
@@ -18022,13 +18064,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@17961@macro@P70_PORT",
+    "ID": "c:Hardware.h@18970@macro@P70_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P70_PORT",
     "location": {
       "column": "9",
-      "line": "445",
+      "line": "467",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P70_PORT",
@@ -18036,13 +18078,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18006@macro@P70_PULL",
+    "ID": "c:Hardware.h@19015@macro@P70_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P70_PULL",
     "location": {
       "column": "9",
-      "line": "446",
+      "line": "468",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P70_PULL",
@@ -18050,13 +18092,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18057@macro@P71_MODE",
+    "ID": "c:Hardware.h@19066@macro@P71_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P71_MODE",
     "location": {
       "column": "9",
-      "line": "448",
+      "line": "470",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P71_MODE",
@@ -18064,13 +18106,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18109@macro@P71_PORT",
+    "ID": "c:Hardware.h@19118@macro@P71_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P71_PORT",
     "location": {
       "column": "9",
-      "line": "449",
+      "line": "471",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P71_PORT",
@@ -18078,13 +18120,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18154@macro@P71_PULL",
+    "ID": "c:Hardware.h@19163@macro@P71_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P71_PULL",
     "location": {
       "column": "9",
-      "line": "450",
+      "line": "472",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P71_PULL",
@@ -18092,13 +18134,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18203@macro@P71_OUTPUT_MODE",
+    "ID": "c:Hardware.h@19212@macro@P71_OUTPUT_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P71_OUTPUT_MODE",
     "location": {
       "column": "9",
-      "line": "451",
+      "line": "473",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P71_OUTPUT_MODE",
@@ -18106,13 +18148,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18244@macro@P72_MODE",
+    "ID": "c:Hardware.h@19253@macro@P72_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P72_MODE",
     "location": {
       "column": "9",
-      "line": "453",
+      "line": "475",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P72_MODE",
@@ -18120,13 +18162,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18296@macro@P72_PORT",
+    "ID": "c:Hardware.h@19305@macro@P72_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P72_PORT",
     "location": {
       "column": "9",
-      "line": "454",
+      "line": "476",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P72_PORT",
@@ -18134,13 +18176,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18341@macro@P72_PULL",
+    "ID": "c:Hardware.h@19350@macro@P72_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P72_PULL",
     "location": {
       "column": "9",
-      "line": "455",
+      "line": "477",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P72_PULL",
@@ -18148,13 +18190,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18392@macro@P73_MODE",
+    "ID": "c:Hardware.h@19401@macro@P73_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P73_MODE",
     "location": {
       "column": "9",
-      "line": "457",
+      "line": "479",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P73_MODE",
@@ -18162,13 +18204,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18444@macro@P73_PORT",
+    "ID": "c:Hardware.h@19453@macro@P73_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P73_PORT",
     "location": {
       "column": "9",
-      "line": "458",
+      "line": "480",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P73_PORT",
@@ -18176,13 +18218,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18489@macro@P73_PULL",
+    "ID": "c:Hardware.h@19498@macro@P73_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P73_PULL",
     "location": {
       "column": "9",
-      "line": "459",
+      "line": "481",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P73_PULL",
@@ -18190,13 +18232,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18540@macro@P74_MODE",
+    "ID": "c:Hardware.h@19549@macro@P74_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P74_MODE",
     "location": {
       "column": "9",
-      "line": "461",
+      "line": "483",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P74_MODE",
@@ -18204,13 +18246,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18592@macro@P74_PORT",
+    "ID": "c:Hardware.h@19601@macro@P74_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P74_PORT",
     "location": {
       "column": "9",
-      "line": "462",
+      "line": "484",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P74_PORT",
@@ -18218,13 +18260,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18637@macro@P74_PULL",
+    "ID": "c:Hardware.h@19646@macro@P74_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P74_PULL",
     "location": {
       "column": "9",
-      "line": "463",
+      "line": "485",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P74_PULL",
@@ -18232,13 +18274,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18686@macro@P74_OUTPUT_MODE",
+    "ID": "c:Hardware.h@19695@macro@P74_OUTPUT_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P74_OUTPUT_MODE",
     "location": {
       "column": "9",
-      "line": "464",
+      "line": "486",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P74_OUTPUT_MODE",
@@ -18246,13 +18288,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18727@macro@P75_MODE",
+    "ID": "c:Hardware.h@19736@macro@P75_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P75_MODE",
     "location": {
       "column": "9",
-      "line": "466",
+      "line": "488",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P75_MODE",
@@ -18260,13 +18302,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18779@macro@P75_PORT",
+    "ID": "c:Hardware.h@19788@macro@P75_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P75_PORT",
     "location": {
       "column": "9",
-      "line": "467",
+      "line": "489",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P75_PORT",
@@ -18274,13 +18316,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18824@macro@P75_PULL",
+    "ID": "c:Hardware.h@19833@macro@P75_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P75_PULL",
     "location": {
       "column": "9",
-      "line": "468",
+      "line": "490",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P75_PULL",
@@ -18288,13 +18330,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18875@macro@P76_MODE",
+    "ID": "c:Hardware.h@19884@macro@P76_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P76_MODE",
     "location": {
       "column": "9",
-      "line": "470",
+      "line": "492",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P76_MODE",
@@ -18302,13 +18344,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18927@macro@P76_PORT",
+    "ID": "c:Hardware.h@19936@macro@P76_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P76_PORT",
     "location": {
       "column": "9",
-      "line": "471",
+      "line": "493",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P76_PORT",
@@ -18316,13 +18358,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@18972@macro@P76_PULL",
+    "ID": "c:Hardware.h@19981@macro@P76_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P76_PULL",
     "location": {
       "column": "9",
-      "line": "472",
+      "line": "494",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P76_PULL",
@@ -18330,13 +18372,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@19023@macro@P77_MODE",
+    "ID": "c:Hardware.h@20032@macro@P77_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P77_MODE",
     "location": {
       "column": "9",
-      "line": "474",
+      "line": "496",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P77_MODE",
@@ -18344,13 +18386,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@19075@macro@P77_PORT",
+    "ID": "c:Hardware.h@20085@macro@P77_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P77_PORT",
     "location": {
       "column": "9",
-      "line": "475",
+      "line": "497",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P77_PORT",
@@ -18358,13 +18400,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@19120@macro@P77_PULL",
+    "ID": "c:Hardware.h@20130@macro@P77_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P77_PULL",
     "location": {
       "column": "9",
-      "line": "476",
+      "line": "498",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P77_PULL",
@@ -18372,13 +18414,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@19171@macro@P7_MODE",
+    "ID": "c:Hardware.h@20181@macro@P7_MODE",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P7_MODE",
     "location": {
       "column": "9",
-      "line": "478",
+      "line": "500",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P7_MODE",
@@ -18386,13 +18428,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@19619@macro@P7_PORT",
+    "ID": "c:Hardware.h@20629@macro@P7_PORT",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P7_PORT",
     "location": {
       "column": "9",
-      "line": "487",
+      "line": "509",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P7_PORT",
@@ -18400,13 +18442,13 @@
     "scope": null
   },
   {
-    "ID": "c:Hardware.h@20067@macro@P7_PULL",
+    "ID": "c:Hardware.h@21077@macro@P7_PULL",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "P7_PULL",
     "location": {
       "column": "9",
-      "line": "496",
+      "line": "518",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hardware.h"
     },
     "name": "P7_PULL",
@@ -28576,457 +28618,45 @@
     "scope": null
   },
   {
-    "ID": "c:CTRL_Button.c@35@macro@__CTRL_BUTTON_C__",
+    "ID": "c:DRV_Leds.c@32@macro@__DRV_LEDS_C__",
     "What": "MacroDef",
     "defdec": "Def",
-    "display": "__CTRL_BUTTON_C__",
+    "display": "__DRV_LEDS_C__",
     "location": {
       "column": "9",
       "line": "2",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Source\\DRV_Leds.c"
     },
-    "name": "__CTRL_BUTTON_C__",
+    "name": "__DRV_LEDS_C__",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:CTRL_Button.c@235@macro@SW",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "SW",
-    "location": {
-      "column": "9",
-      "line": "12",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-    },
-    "name": "SW",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:CTRL_Button.c@268@macro@NUM_DE_BOTOES",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "NUM_DE_BOTOES",
-    "location": {
-      "column": "9",
-      "line": "13",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-    },
-    "name": "NUM_DE_BOTOES",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@EA@BUTTON_STATE_MACHINE",
-    "What": "Enum",
-    "defdec": "Def",
-    "display": "",
-    "fields": [
-      {
-        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW0",
-        "What": "Enumerator",
-        "defdec": "Def",
-        "display": "SW0",
-        "location": {
-          "column": "3",
-          "line": "19",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "SW0",
-        "origin": "project_file",
-        "scope": null
-      },
-      {
-        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW1",
-        "What": "Enumerator",
-        "defdec": "Def",
-        "display": "SW1",
-        "location": {
-          "column": "3",
-          "line": "20",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "SW1",
-        "origin": "project_file",
-        "scope": null
-      },
-      {
-        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW2",
-        "What": "Enumerator",
-        "defdec": "Def",
-        "display": "SW2",
-        "location": {
-          "column": "3",
-          "line": "21",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "SW2",
-        "origin": "project_file",
-        "scope": null
-      },
-      {
-        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW3",
-        "What": "Enumerator",
-        "defdec": "Def",
-        "display": "SW3",
-        "location": {
-          "column": "3",
-          "line": "22",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "SW3",
-        "origin": "project_file",
-        "scope": null
-      },
-      {
-        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW4",
-        "What": "Enumerator",
-        "defdec": "Def",
-        "display": "SW4",
-        "location": {
-          "column": "3",
-          "line": "23",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "SW4",
-        "origin": "project_file",
-        "scope": null
-      },
-      {
-        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW5",
-        "What": "Enumerator",
-        "defdec": "Def",
-        "display": "SW5",
-        "location": {
-          "column": "3",
-          "line": "24",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "SW5",
-        "origin": "project_file",
-        "scope": null
-      },
-      {
-        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW6",
-        "What": "Enumerator",
-        "defdec": "Def",
-        "display": "SW6",
-        "location": {
-          "column": "3",
-          "line": "25",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "SW6",
-        "origin": "project_file",
-        "scope": null
-      },
-      {
-        "ID": "c:@EA@BUTTON_STATE_MACHINE@NONE",
-        "What": "Enumerator",
-        "defdec": "Def",
-        "display": "NONE",
-        "location": {
-          "column": "3",
-          "line": "26",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "NONE",
-        "origin": "project_file",
-        "scope": null
-      }
-    ],
-    "location": {
-      "column": "9",
-      "line": "18",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-    },
-    "name": "",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@SA@notas",
-    "What": "Struct",
-    "defdec": "Def",
-    "display": "",
-    "location": {
-      "column": "9",
-      "line": "31",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-    },
-    "members": [
-      {
-        "ID": "c:@SA@notas@FI@SWX",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "SWX",
-        "location": {
-          "column": "24",
-          "line": "32",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "SWX",
-        "origin": "project_file",
-        "scope": "_anonymous_CTRL_Button_c_31_9"
-      },
-      {
-        "ID": "c:@SA@notas@FI@freq",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "freq",
-        "location": {
-          "column": "7",
-          "line": "33",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "freq",
-        "origin": "project_file",
-        "scope": "_anonymous_CTRL_Button_c_31_9"
-      },
-      {
-        "ID": "c:CTRL_Button.c@T@notas",
-        "What": "TypedefDecl",
-        "defdec": "Def",
-        "display": "struct notas",
-        "location": {
-          "column": "3",
-          "line": "34",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "notas",
-        "origin": "project_file",
-        "scope": "_anonymous_CTRL_Button_c_31_9"
-      }
-    ],
-    "name": "",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@Notas",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "Notas",
-    "location": {
-      "column": "13",
-      "line": "36",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-    },
-    "name": "Notas",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:CTRL_Button.c@S@CTRL_Button.c@690",
-    "What": "Struct",
-    "defdec": "Def",
-    "display": "",
-    "location": {
-      "column": "1",
-      "line": "47",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-    },
-    "members": [
-      {
-        "ID": "c:CTRL_Button.c@S@CTRL_Button.c@690@FI@button_state",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "button_state",
-        "location": {
-          "column": "24",
-          "line": "48",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "button_state",
-        "origin": "project_file",
-        "scope": "_anonymous_CTRL_Button_c_47_1"
-      },
-      {
-        "ID": "c:CTRL_Button.c@S@CTRL_Button.c@690@FI@button_pressed",
-        "What": "FieldDecl",
-        "defdec": "Def",
-        "display": "button_pressed",
-        "location": {
-          "column": "16",
-          "line": "49",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "button_pressed",
-        "origin": "project_file",
-        "scope": "_anonymous_CTRL_Button_c_47_1"
-      },
-      {
-        "ID": "c:@ctrl_button_obj",
-        "What": "VarDecl",
-        "defdec": "Dec",
-        "display": "ctrl_button_obj",
-        "location": {
-          "column": "3",
-          "line": "51",
-          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-        },
-        "name": "ctrl_button_obj",
-        "origin": "project_file",
-        "scope": "_anonymous_CTRL_Button_c_47_1"
-      }
-    ],
-    "name": "",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@CTRL_Button_Init",
+    "ID": "c:@F@Liga_Led",
     "What": "Function",
     "defdec": "Def",
-    "display": "void CTRL_Button_Init(void)",
+    "display": "void Liga_Led(LED_TYPE)",
     "location": {
       "column": "6",
-      "line": "54",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
+      "line": "7",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Source\\DRV_Leds.c"
     },
-    "name": "CTRL_Button_Init",
+    "name": "Liga_Led",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:@F@CTRL_Button_Read",
+    "ID": "c:@F@Desliga_Led",
     "What": "Function",
     "defdec": "Def",
-    "display": "BUTTON_STATE_MACHINE CTRL_Button_Read(void)",
-    "location": {
-      "column": "22",
-      "line": "58",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-    },
-    "name": "CTRL_Button_Read",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:CTRL_Button.c@886@F@CTRL_Button_Read@reads_count",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "reads_count",
-    "location": {
-      "column": "14",
-      "line": "60",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-    },
-    "name": "reads_count",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:CTRL_Button.c@913@F@CTRL_Button_Read@read",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "read",
-    "location": {
-      "column": "24",
-      "line": "61",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-    },
-    "name": "read",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@CTRL_Button_Task",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void CTRL_Button_Task(void)",
+    "display": "void Desliga_Led(LED_TYPE)",
     "location": {
       "column": "6",
-      "line": "80",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
+      "line": "26",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Source\\DRV_Leds.c"
     },
-    "name": "CTRL_Button_Task",
+    "name": "Desliga_Led",
     "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:CTRL_Button.c@1198@F@CTRL_Button_Task@botao",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "botao",
-    "location": {
-      "column": "7",
-      "line": "81",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Source\\CTRL_Button.c"
-    },
-    "name": "botao",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:CTRL_Button.h@33@macro@__CTRL_LEDS_H__",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "__CTRL_LEDS_H__",
-    "location": {
-      "column": "9",
-      "line": "2",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Headers\\CTRL_Button.h"
-    },
-    "name": "__CTRL_LEDS_H__",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@CTRL_Button_Task",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void CTRL_Button_Task(void)",
-    "location": {
-      "column": "10",
-      "line": "4",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Headers\\CTRL_Button.h"
-    },
-    "name": "CTRL_Button_Task",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@CTRL_Button_Task",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void CTRL_Button_Task(void)",
-    "location": {
-      "column": "10",
-      "line": "4",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Headers\\CTRL_Button.h"
-    },
-    "name": "CTRL_Button_Task",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@CTRL_Button_Init",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void CTRL_Button_Init(void)",
-    "location": {
-      "column": "10",
-      "line": "5",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Headers\\CTRL_Button.h"
-    },
-    "name": "CTRL_Button_Init",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@CTRL_Button_Init",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void CTRL_Button_Init(void)",
-    "location": {
-      "column": "10",
-      "line": "5",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Headers\\CTRL_Button.h"
-    },
-    "name": "CTRL_Button_Init",
-    "origin": "user_include",
     "scope": null
   },
   {
@@ -29097,118 +28727,6 @@
     },
     "name": "_DLIB_CONFIG_H",
     "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:Hooks.h@29@macro@__HOOKS_H__",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "__HOOKS_H__",
-    "location": {
-      "column": "9",
-      "line": "2",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hooks.h"
-    },
-    "name": "__HOOKS_H__",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:Hooks.h@277@macro@HOOK_TURN_LED1_ON",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "HOOK_TURN_LED1_ON",
-    "location": {
-      "column": "9",
-      "line": "11",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hooks.h"
-    },
-    "name": "HOOK_TURN_LED1_ON",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:Hooks.h@335@macro@HOOK_TURN_LED2_ON",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "HOOK_TURN_LED2_ON",
-    "location": {
-      "column": "9",
-      "line": "13",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hooks.h"
-    },
-    "name": "HOOK_TURN_LED2_ON",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:Hooks.h@393@macro@HOOK_TURN_LED3_ON",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "HOOK_TURN_LED3_ON",
-    "location": {
-      "column": "9",
-      "line": "15",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hooks.h"
-    },
-    "name": "HOOK_TURN_LED3_ON",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:Hooks.h@451@macro@HOOK_TURN_ALL_LEDS_OFF",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "HOOK_TURN_ALL_LEDS_OFF",
-    "location": {
-      "column": "9",
-      "line": "17",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hooks.h"
-    },
-    "name": "HOOK_TURN_ALL_LEDS_OFF",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:Hooks.h@663@macro@HOOK_SET_MUSICAL_NOTE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "HOOK_SET_MUSICAL_NOTE",
-    "location": {
-      "column": "9",
-      "line": "22",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hooks.h"
-    },
-    "name": "HOOK_SET_MUSICAL_NOTE",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:Hooks.h@735@macro@HOOK_TURN_OFF_MUSICAL",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "HOOK_TURN_OFF_MUSICAL",
-    "location": {
-      "column": "9",
-      "line": "23",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Hooks.h"
-    },
-    "name": "HOOK_TURN_OFF_MUSICAL",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DRV_Leds.h@32@macro@__DRV_LEDS_H__",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "__DRV_LEDS_H__",
-    "location": {
-      "column": "9",
-      "line": "2",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Headers\\DRV_Leds.h"
-    },
-    "name": "__DRV_LEDS_H__",
-    "origin": "user_include",
     "scope": null
   },
   {
@@ -29298,34 +28816,6 @@
     "scope": null
   },
   {
-    "ID": "c:@F@Liga_Led",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void Liga_Led(LED_TYPE)",
-    "location": {
-      "column": "6",
-      "line": "15",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Headers\\DRV_Leds.h"
-    },
-    "name": "Liga_Led",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@Desliga_Led",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void Desliga_Led(LED_TYPE)",
-    "location": {
-      "column": "6",
-      "line": "16",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Headers\\DRV_Leds.h"
-    },
-    "name": "Desliga_Led",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
     "ID": "c:@F@Desliga_Led",
     "What": "Function",
     "defdec": "Dec",
@@ -29351,146 +28841,6 @@
     },
     "name": "Alterna_Led",
     "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DRV_Speaker.h@35@macro@__DRV_SPEAKER_H__",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "__DRV_SPEAKER_H__",
-    "location": {
-      "column": "9",
-      "line": "2",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Headers\\DRV_Speaker.h"
-    },
-    "name": "__DRV_SPEAKER_H__",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@DRV_Speaker_Nota_Musical",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void DRV_Speaker_Nota_Musical(int)",
-    "location": {
-      "column": "6",
-      "line": "6",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Headers\\DRV_Speaker.h"
-    },
-    "name": "DRV_Speaker_Nota_Musical",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@DRV_Speaker_Turn_Off",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void DRV_Speaker_Turn_Off(void)",
-    "location": {
-      "column": "6",
-      "line": "7",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Headers\\DRV_Speaker.h"
-    },
-    "name": "DRV_Speaker_Turn_Off",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:DRV_Leds.c@32@macro@__DRV_LEDS_C__",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "__DRV_LEDS_C__",
-    "location": {
-      "column": "9",
-      "line": "2",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Source\\DRV_Leds.c"
-    },
-    "name": "__DRV_LEDS_C__",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@Liga_Led",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void Liga_Led(LED_TYPE)",
-    "location": {
-      "column": "6",
-      "line": "7",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Source\\DRV_Leds.c"
-    },
-    "name": "Liga_Led",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@Desliga_Led",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void Desliga_Led(LED_TYPE)",
-    "location": {
-      "column": "6",
-      "line": "26",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Source\\DRV_Leds.c"
-    },
-    "name": "Desliga_Led",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:DRV_Speaker.c@60@macro@__DRV_SPEAKER_C__",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "__DRV_SPEAKER_C__",
-    "location": {
-      "column": "9",
-      "line": "4",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Source\\DRV_Speaker.c"
-    },
-    "name": "__DRV_SPEAKER_C__",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@DRV_Speaker_Nota_Musical",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void DRV_Speaker_Nota_Musical(int)",
-    "location": {
-      "column": "6",
-      "line": "11",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Source\\DRV_Speaker.c"
-    },
-    "name": "DRV_Speaker_Nota_Musical",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@DRV_Speaker_Turn_Off",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void DRV_Speaker_Turn_Off(void)",
-    "location": {
-      "column": "6",
-      "line": "19",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Source\\DRV_Speaker.c"
-    },
-    "name": "DRV_Speaker_Turn_Off",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@DRV_Speaker_trata_IT",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void DRV_Speaker_trata_IT(void)",
-    "location": {
-      "column": "18",
-      "line": "27",
-      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Drivers\\Source\\DRV_Speaker.c"
-    },
-    "name": "DRV_Speaker_trata_IT",
-    "origin": "project_file",
     "scope": null
   },
   {
@@ -36088,13 +35438,41 @@
     "scope": null
   },
   {
+    "ID": "c:main.c@449@macro@SW",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SW",
+    "location": {
+      "column": "9",
+      "line": "15",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "name": "SW",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@482@macro@NUM_DE_BOTOES",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "NUM_DE_BOTOES",
+    "location": {
+      "column": "9",
+      "line": "16",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "name": "NUM_DE_BOTOES",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
     "ID": "c:@opbyte0",
     "What": "Variable",
     "defdec": "Def",
     "display": "opbyte0",
     "location": {
       "column": "25",
-      "line": "18",
+      "line": "20",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
     },
     "name": "opbyte0",
@@ -36108,7 +35486,7 @@
     "display": "opbyte1",
     "location": {
       "column": "25",
-      "line": "21",
+      "line": "23",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
     },
     "name": "opbyte1",
@@ -36122,7 +35500,7 @@
     "display": "opbyte2",
     "location": {
       "column": "25",
-      "line": "24",
+      "line": "26",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
     },
     "name": "opbyte2",
@@ -36136,7 +35514,7 @@
     "display": "opbyte3",
     "location": {
       "column": "25",
-      "line": "27",
+      "line": "29",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
     },
     "name": "opbyte3",
@@ -36150,10 +35528,238 @@
     "display": "senha",
     "location": {
       "column": "25",
-      "line": "30",
+      "line": "32",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
     },
     "name": "senha",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@trata_IT",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void trata_IT(void)",
+    "location": {
+      "column": "18",
+      "line": "35",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "name": "trata_IT",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@nota_musical",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void nota_musical(int)",
+    "location": {
+      "column": "6",
+      "line": "39",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "name": "nota_musical",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@EA@BUTTON_STATE_MACHINE",
+    "What": "Enum",
+    "defdec": "Def",
+    "display": "",
+    "fields": [
+      {
+        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW0",
+        "What": "Enumerator",
+        "defdec": "Def",
+        "display": "SW0",
+        "location": {
+          "column": "3",
+          "line": "42",
+          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+        },
+        "name": "SW0",
+        "origin": "project_file",
+        "scope": null
+      },
+      {
+        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW1",
+        "What": "Enumerator",
+        "defdec": "Def",
+        "display": "SW1",
+        "location": {
+          "column": "3",
+          "line": "43",
+          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+        },
+        "name": "SW1",
+        "origin": "project_file",
+        "scope": null
+      },
+      {
+        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW2",
+        "What": "Enumerator",
+        "defdec": "Def",
+        "display": "SW2",
+        "location": {
+          "column": "3",
+          "line": "44",
+          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+        },
+        "name": "SW2",
+        "origin": "project_file",
+        "scope": null
+      },
+      {
+        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW3",
+        "What": "Enumerator",
+        "defdec": "Def",
+        "display": "SW3",
+        "location": {
+          "column": "3",
+          "line": "45",
+          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+        },
+        "name": "SW3",
+        "origin": "project_file",
+        "scope": null
+      },
+      {
+        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW4",
+        "What": "Enumerator",
+        "defdec": "Def",
+        "display": "SW4",
+        "location": {
+          "column": "3",
+          "line": "46",
+          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+        },
+        "name": "SW4",
+        "origin": "project_file",
+        "scope": null
+      },
+      {
+        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW5",
+        "What": "Enumerator",
+        "defdec": "Def",
+        "display": "SW5",
+        "location": {
+          "column": "3",
+          "line": "47",
+          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+        },
+        "name": "SW5",
+        "origin": "project_file",
+        "scope": null
+      },
+      {
+        "ID": "c:@EA@BUTTON_STATE_MACHINE@SW6",
+        "What": "Enumerator",
+        "defdec": "Def",
+        "display": "SW6",
+        "location": {
+          "column": "3",
+          "line": "48",
+          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+        },
+        "name": "SW6",
+        "origin": "project_file",
+        "scope": null
+      },
+      {
+        "ID": "c:@EA@BUTTON_STATE_MACHINE@NONE",
+        "What": "Enumerator",
+        "defdec": "Def",
+        "display": "NONE",
+        "location": {
+          "column": "3",
+          "line": "49",
+          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+        },
+        "name": "NONE",
+        "origin": "project_file",
+        "scope": null
+      }
+    ],
+    "location": {
+      "column": "9",
+      "line": "41",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "name": "",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@SA@notas",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "54",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "members": [
+      {
+        "ID": "c:@SA@notas@FI@SWX",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "SWX",
+        "location": {
+          "column": "24",
+          "line": "55",
+          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+        },
+        "name": "SWX",
+        "origin": "project_file",
+        "scope": "_anonymous_main_c_54_9"
+      },
+      {
+        "ID": "c:@SA@notas@FI@freq",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "freq",
+        "location": {
+          "column": "7",
+          "line": "56",
+          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+        },
+        "name": "freq",
+        "origin": "project_file",
+        "scope": "_anonymous_main_c_54_9"
+      },
+      {
+        "ID": "c:main.c@T@notas",
+        "What": "TypedefDecl",
+        "defdec": "Def",
+        "display": "struct notas",
+        "location": {
+          "column": "3",
+          "line": "57",
+          "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+        },
+        "name": "notas",
+        "origin": "project_file",
+        "scope": "_anonymous_main_c_54_9"
+      }
+    ],
+    "name": "",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@Notas",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "Notas",
+    "location": {
+      "column": "13",
+      "line": "59",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "name": "Notas",
     "origin": "project_file",
     "scope": null
   },
@@ -36164,10 +35770,38 @@
     "display": "void init_oscilator(void)",
     "location": {
       "column": "6",
-      "line": "34",
+      "line": "70",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
     },
     "name": "init_oscilator",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1910@macro@BUTOES_PINOS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "BUTOES_PINOS",
+    "location": {
+      "column": "9",
+      "line": "77",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "name": "BUTOES_PINOS",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1942@macro@BUZZER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "BUZZER",
+    "location": {
+      "column": "9",
+      "line": "78",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "name": "BUZZER",
     "origin": "project_file",
     "scope": null
   },
@@ -36178,11 +35812,123 @@
     "display": "void main(void)",
     "location": {
       "column": "6",
-      "line": "42",
+      "line": "80",
       "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
     },
     "name": "main",
     "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@2155@F@main@botao",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "botao",
+    "location": {
+      "column": "9",
+      "line": "94",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "name": "botao",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@2171@F@main@read",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "read",
+    "location": {
+      "column": "9",
+      "line": "95",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "name": "read",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@nota_musical",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void nota_musical(int)",
+    "location": {
+      "column": "8",
+      "line": "121",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\main.c"
+    },
+    "name": "nota_musical",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:CTRL_Button.h@33@macro@__CTRL_LEDS_H__",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__CTRL_LEDS_H__",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Headers\\CTRL_Button.h"
+    },
+    "name": "__CTRL_LEDS_H__",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CTRL_Button_Task",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void CTRL_Button_Task(void)",
+    "location": {
+      "column": "10",
+      "line": "4",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Headers\\CTRL_Button.h"
+    },
+    "name": "CTRL_Button_Task",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@CTRL_Button_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void CTRL_Button_Init(void)",
+    "location": {
+      "column": "10",
+      "line": "5",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Headers\\CTRL_Button.h"
+    },
+    "name": "CTRL_Button_Init",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:CTRL_Button.h@133@macro@P7_PINS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "P7_PINS",
+    "location": {
+      "column": "12",
+      "line": "7",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Headers\\CTRL_Button.h"
+    },
+    "name": "P7_PINS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:CTRL_Button.h@257@macro@BUTTON_BITS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "BUTTON_BITS",
+    "location": {
+      "column": "13",
+      "line": "11",
+      "path": "F:\\Projetos\\Renesas\\FEI\\MiniProjeto_TecladoMusical\\Project\\Control\\Headers\\CTRL_Button.h"
+    },
+    "name": "BUTTON_BITS",
+    "origin": "user_include",
     "scope": null
   },
   {

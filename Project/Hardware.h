@@ -394,9 +394,9 @@
 
 /******************************************************/
 //PORT5
-#define P50_MODE                 (PORT_OUTPUT_MODE)
+#define P50_MODE                 (PORT_INPUT_MODE)
 #define P50_PORT                 (PORT_OFF)
-#define P50_PULL                 (PORT_PULL_NO)
+#define P50_PULL                 (PORT_PULL_UP)
 #define P50_OUTPUT_MODE          (PORT_NORMAL_OUTPUT)
 
 
@@ -421,6 +421,28 @@
 #define P55_PULL                 (PORT_PULL_NO)
 #define P55_INPUT_MODE           (PORT_NORMAL_INPUT)
 #define P55_OUTPUT_MODE          (PORT_NORMAL_OUTPUT)
+
+#define P5_MODE                 (   P55_MODE << 5u | \
+                                    P54_MODE << 4u | \
+                                    P53_MODE << 3u | \
+                                    P52_MODE << 2u | \
+                                    P51_MODE << 1u | \
+                                    P50_MODE << 0u )
+
+#define P5_PORT                 (   P55_PORT << 5u | \
+                                    P54_PORT << 4u | \
+                                    P53_PORT << 3u | \
+                                    P52_PORT << 2u | \
+                                    P51_PORT << 1u | \
+                                    P50_PORT << 0u )
+
+#define P5_PULL                 (   P55_PULL << 5u | \
+                                    P54_PULL << 4u | \
+                                    P53_PULL << 3u | \
+                                    P52_PULL << 2u | \
+                                    P51_PULL << 1u | \
+                                    P50_PULL << 0u )
+
 /******************************************************/
 //PORT6
 #define P40_MODE                 (PORT_OUTPUT_MODE)
@@ -471,9 +493,9 @@
 #define P76_PORT                 (PORT_OFF)
 #define P76_PULL                 (PORT_PULL_UP)
 
-#define P77_MODE                 (PORT_INPUT_MODE)
+#define P77_MODE                 (PORT_OUTPUT_MODE)
 #define P77_PORT                 (PORT_OFF)
-#define P77_PULL                 (PORT_PULL_UP)
+#define P77_PULL                 (PORT_PULL_NO)
 
 #define P7_MODE                 (   P77_MODE << 7u | \
                                     P76_MODE << 6u | \

@@ -1,4 +1,4 @@
-#ifndef __CTRL_BUTTON_C__
+#ifdef __CTRL_BUTTON_C__
 #define __CTRL_BUTTON_C__
 
 #include "CTRL_Button.h"
@@ -57,21 +57,9 @@ void CTRL_Button_Init(){
 
 BUTTON_STATE_MACHINE CTRL_Button_Read(){
   
-  int static reads_count;
-  BUTTON_STATE_MACHINE read = NONE ;
+  //int static reads_count;
+  //BUTTON_STATE_MACHINE read = NONE ;
 
-  
-  while(read == (P7 | 128) ){
-    
-    read = (BUTTON_STATE_MACHINE)(P7 & 127);
-    
-    if(reads_count++ == 0x4){
-      return read;
-    }
-    
-  }
-  
-  return ctrl_button_obj.button_state;
   
 }
 
@@ -79,7 +67,7 @@ BUTTON_STATE_MACHINE CTRL_Button_Read(){
 
 void CTRL_Button_Task(){
   int botao;
-  ctrl_button_obj.button_state = (BUTTON_STATE_MACHINE)(P7 | 64); //CTRL_Button_Read() ;
+  ctrl_button_obj.button_state = (BUTTON_STATE_MACHINE)BUTTON_BITS ;//CTRL_Button_Read() ; //(BUTTON_STATE_MACHINE)(P7 | 64 | 128); //CTRL_Button_Read() ;
   
   
   
@@ -88,6 +76,8 @@ void CTRL_Button_Task(){
     if( ctrl_button_obj.button_state == Notas[botao].SWX ){
       ctrl_button_obj.button_pressed = 1;
       HOOK_SET_MUSICAL_NOTE(Notas[botao].freq);
+      
+      
     }
   }
   

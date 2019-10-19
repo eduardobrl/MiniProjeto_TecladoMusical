@@ -2196,9 +2196,6 @@
             <file>
                 <name>$PROJ_DIR$\Drivers\Source\DRV_Leds.c</name>
             </file>
-            <file>
-                <name>$PROJ_DIR$\Drivers\Source\DRV_Speaker.c</name>
-            </file>
         </group>
     </group>
     <file>
